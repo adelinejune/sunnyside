@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot 2021-10-09 at 22-07-49 Sunnyside](https://user-images.githubusercontent.com/75600902/136661282-b9970bba-6e4c-433e-ab00-d8101699d27b.png)
+![Screenshot 2021-10-09 at 22-07-49 Sunnyside](https://user-images.githubusercontent.com/75600902/136662353-a8f3dc24-ff46-4580-9e49-9d24d246bef7.png)
 
 ### Links
 
-- Solution URL: [https://github.com/adelinejune/sunnyside-agency](https://github.com/adelinejune/sunnyside-agency)
-- Live Site URL: [https://adelinejune.github.io/sunnyside-agency/](https://adelinejune.github.io/sunnyside-agency/)
+- Solution URL: [https://github.com/adelinejune/sunnyside](https://github.com/adelinejune/sunnyside)
+- Live Site URL: [https://adelinejune.github.io/sunnyside/](https://adelinejune.github.io/sunnyside/)
 
 ## My process
 
