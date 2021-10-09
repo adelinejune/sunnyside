@@ -39,7 +39,7 @@ main {
 
 .top-container {
   height: 650px;
-  background: url("/images/mobile/image-header.jpg");
+  background: url("./images/mobile/image-header.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
