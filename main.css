@@ -382,11 +382,10 @@ footer {
 
   /* Feature section */
   .feature-container {
-    display: flex;
+    display: grid;
+    grid-template-areas: "a b";
   }
-  .feature-inner {
-    height: auto;
-  }
+
   .feature-text {
     top: 50%;
     padding: 1.5em;
